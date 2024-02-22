@@ -20,7 +20,4 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
-  "ts-node": {
-    "esm": true, // «———— enabling ESM for ts-node   
-  }, 
 }
